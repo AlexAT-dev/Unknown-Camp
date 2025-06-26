@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0adc1611c242ae4fae1fb63148f4dea, type: 3}
+  m_Name: MultiColored
+  m_EditorClassIdentifier: 
+  Name: MultiColored
+  CodeName: Mummad_MultiColored
+  StandSprite: {fileID: 21300000, guid: 896af8135ed894f45b891bf4d6a0f74e, type: 3}
+  Prefab: {fileID: 6058695200911778649, guid: e30d742c63b3bf440a97a168de1675c4, type: 3}
+  IconSprite: {fileID: 21300000, guid: 260fb7d1ee1dfdf4e9677faa1fde59fe, type: 3}
+  Rarity: 2

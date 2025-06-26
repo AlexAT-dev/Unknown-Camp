@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0adc1611c242ae4fae1fb63148f4dea, type: 3}
+  m_Name: Colorful
+  m_EditorClassIdentifier: 
+  Name: Colorful
+  CodeName: AdeleC_Colorful
+  StandSprite: {fileID: 1291787399, guid: dd03ec3a3c3abd047a9cfad7cd70f38d, type: 3}
+  Prefab: {fileID: 4227434881822484052, guid: 50ae591d960cb764cad790f1bc697722, type: 3}
+  IconSprite: {fileID: 932486264, guid: d35f277e046ba3f498be24a807b6a524, type: 3}
+  Rarity: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8af5c7f08666d40a9a7cb7ba3f6729, type: 3}
+  m_Name: Mushnita
+  m_EditorClassIdentifier: 
+  Name: Mushnita
+  StandSprite: {fileID: 21300000, guid: 5667854ee67e64543900b560333a23a0, type: 3}
+  Prefab: {fileID: 8229305770616138277, guid: 88c6f8251f8c97e41bca78547407b28e, type: 3}
+  IconSprite: {fileID: 21300000, guid: 308f4c11ffe2125449fd1541428a683d, type: 3}
+  Skins: []
+  Traits:
+    speed: 7.2
+    preparePhase: 60
+    attackPhase: 50
+    catchCD: 5
+    abilityText: '<red>in developing</color>
+
+      Deploys trap mushrooms.'

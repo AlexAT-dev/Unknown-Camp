@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b38db8006e46c8478c0977d6113c9a4, type: 3}
+  m_Name: CharactersList
+  m_EditorClassIdentifier: 
+  Campers:
+  - {fileID: 11400000, guid: e9ef55f3dfc902243996e07005b8b69d, type: 2}
+  - {fileID: 11400000, guid: baf2191418fdade409bf04a23addae4f, type: 2}
+  - {fileID: 11400000, guid: 968a1f99a469e8a42a1f707e48b70cd6, type: 2}
+  - {fileID: 11400000, guid: 10ab757ae82a10749a2ce836b204a32b, type: 2}
+  Catchers:
+  - {fileID: 11400000, guid: f7d959be7509ec941a6e936624bb9f7f, type: 2}
+  - {fileID: 11400000, guid: 1eeca02c347a7414895f8d9526a39a58, type: 2}
+  DefaultCamper: {fileID: 11400000, guid: e9ef55f3dfc902243996e07005b8b69d, type: 2}
+  DefaultCatcher: {fileID: 11400000, guid: f7d959be7509ec941a6e936624bb9f7f, type: 2}

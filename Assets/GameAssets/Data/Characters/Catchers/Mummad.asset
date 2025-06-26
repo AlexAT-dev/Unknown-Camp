@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8af5c7f08666d40a9a7cb7ba3f6729, type: 3}
+  m_Name: Mummad
+  m_EditorClassIdentifier: 
+  Name: Mummad
+  StandSprite: {fileID: 21300000, guid: e0905981d66b8344cbc40c7a26b9b44c, type: 3}
+  Prefab: {fileID: 4026831933888890256, guid: cb0a69a953e1e904e89c022c96f475c5, type: 3}
+  IconSprite: {fileID: 21300000, guid: 260fb7d1ee1dfdf4e9677faa1fde59fe, type: 3}
+  Skins:
+  - {fileID: 11400000, guid: 605bb7fcfc0079441af566df09e6180a, type: 2}
+  - {fileID: 11400000, guid: f21050684e46eee4382ac169a399aa76, type: 2}
+  - {fileID: 11400000, guid: af9011cb28b475f40b885a108110e445, type: 2}
+  Traits:
+    speed: 7
+    preparePhase: 40
+    attackPhase: 40
+    catchCD: 10
+    abilityText: No yet

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8351554a2b8dbad4f91e45c8c8bb460b, type: 3}
+  m_Name: Kai
+  m_EditorClassIdentifier: 
+  Name: Kai
+  StandSprite: {fileID: -1849591272, guid: 0133dd687aba1d748a4602068a00628e, type: 3}
+  Prefab: {fileID: 9126483444736215212, guid: cd5ff287851cfab4ebcf2153162bed5c, type: 3}
+  IconSprite: {fileID: 195159667, guid: d35f277e046ba3f498be24a807b6a524, type: 3}
+  Skins: []
+  Traits:
+    speed: 6.2000003
+    hp: 3
+    mind: 3
+    strength: 10
+    stealth: 3
+    abilityText: No yet
