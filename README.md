@@ -1,10 +1,11 @@
 # Unknown Camp
 
-CHNU Bachelor degree project.  
-Developed by Oleksii Atvinovskyi (AlexAT-dev).
-
 Asymmetrical multiplayer game using Photon plugin for multiplayer implementation.  
 ML-Agent for Deep Reinforcement Learning and Curriculum Learning.
+
+Developed for a bachelor degree project by Oleksii Atvinovskyi (AlexAT-dev).
+
+Server-side repository: https://github.com/AlexAT-dev/Unknown-Camp-Server
 
 ## Requirements
 
